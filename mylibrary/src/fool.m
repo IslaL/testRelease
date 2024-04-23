@@ -1,0 +1,3 @@
+function fool()
+    disp('------------')
+end
